@@ -8,7 +8,7 @@ It is a people management system using:
 * Java11
 * IntelliJ
 * REST API
-* Spring Boot cirdo with Spring Boot Initializr
+* Spring Boot created with Spring Boot Initializr
 * Maven
 * Heroku
 
